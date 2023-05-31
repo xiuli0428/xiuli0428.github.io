@@ -34,7 +34,12 @@ puts "Hi, #{name}"
 end
 print_hi('Tom')
 #=> prints 'Hi, Tom' to STDOUT.
+
+ddd
+
+def 
 {% endhighlight %}
+abc
 
 ## section 2
 
